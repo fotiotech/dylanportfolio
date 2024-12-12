@@ -7,7 +7,7 @@ const ProjectSection = () => {
     <section id="project" className="m-4 bg-gray-50 p-8 rounded-lg shadow-md">
       <h2 className="font-semibold text-3xl text-gray-800 mb-6">Projects</h2>
       
-      <a href="http://dyfk-com.vercel.app" target="_blank" rel="noopener noreferrer" className="flex justify-center mb-4">
+      <a href="http://novaorizon.vercel.app" target="_blank" rel="noopener noreferrer" className="flex justify-center mb-4">
         <Image
           src="/logo.png"
           alt="Project Logo"
